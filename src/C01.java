@@ -9,5 +9,7 @@ public class C01 {
 
         System.out.println("1.Deneme master");
 
+        System.out.println("1.Deneme orhan");
+
     }
 }
