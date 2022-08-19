@@ -8,6 +8,8 @@ public class C01 {
         System.out.println("1.Deneme Fatma");
 
         System.out.println("1.Deneme master");
+        System.out.println("1.Deneme fatma2");
 
     }
+
 }
