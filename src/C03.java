@@ -5,6 +5,7 @@ public class C03 {
          System.out.println("Github'dan Locale gonderme");
         System.out.println("Master 1.Deneme");
         System.out.println("Master 2.Deneme");
+        System.out.println("Master 3.Deneme");
 
     }
 
